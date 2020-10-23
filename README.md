@@ -1,1 +1,1 @@
-# notifications-specs
+# Notifications Specs
